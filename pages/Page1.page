@@ -1,6 +1,0 @@
-<apex:page >
-<!--  version 20 -->
-<apex:form >
-<apex:outputLabel > label </apex:outputLabel>
-</apex:form>
-</apex:page>
